@@ -1,5 +1,6 @@
 - 💻 I’m currently working at **Therap BD Ltd.** as **Software Engineer II, QA**
 - 📆 **Over 3 Years** of Experience in Software Quality Assurance
-- 📝 Experienced in **Python**, **Selenium**, **Pytest**, **Playwright**, **Cypress**, **Automation Testing**, **Manual Testing**, **API Testing**, **Regression Testing** etc.
+- 🧑‍💻 Self Motivated Python Developer
+- 📝 Experienced in **Python**, **Django**, **JavaScript**, **ReactJS**, **Selenium**, **Pytest**, **Playwright**, **Cypress**, **Automation Testing**, **Manual Testing**, **API Testing**, **Regression Testing** etc.
 - 📫 How to reach me: **azhaanmd.personal@gmail.com**, **azhaan0810@gmail.com**
 - 🔗 **https://www.linkedin.com/in/azhaanmuhammad/**
